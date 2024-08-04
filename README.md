@@ -1,3 +1,2 @@
-# sample repository
-This is my first git repository
+# Prodigy Internship Task
 Author - Bhartee Gorade
